@@ -40,10 +40,10 @@ All of these are closely tied to **ICPC 2025** — our final stop at this compet
 <div align="center">
 
 ### VHU Team
-![VHU Team](link-to-vhu-team-image)
+![VHU Team](![Image](https://github.com/user-attachments/assets/687b1219-d464-4119-8f74-71a840119d0d))
 
 ### ICPC Team
-![ICPC Team](link-to-icpc-team-image)
+![ICPC Team](![Image](https://github.com/user-attachments/assets/2a49156c-3924-407e-a18b-25ab4b3005cd))
 
 </div>
 
