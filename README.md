@@ -39,7 +39,10 @@ All of these are closely tied to **ICPC 2025** — our final stop at this compet
 
 <div align="center">
 
-### VHU Team
+### HaNoi-2024
+![VHU Team](https://github.com/user-attachments/assets/f404008d-dd44-47b3-bb09-925d3994109a)
+
+### HoChiMinh-2025
 ![VHU Team](https://github.com/user-attachments/assets/687b1219-d464-4119-8f74-71a840119d0d)
 
 </div>
