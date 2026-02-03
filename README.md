@@ -35,6 +35,20 @@ All of these are closely tied to **ICPC 2025** — our final stop at this compet
 
 ---
 
+## 📷 Memories in Pictures
+
+<div align="center">
+
+### VHU Team
+![VHU Team](link-to-vhu-team-image)
+
+### ICPC Team
+![ICPC Team](link-to-icpc-team-image)
+
+</div>
+
+---
+
 *"The journey of a thousand miles begins with a single step."*
 
 **Team VHU – ICPC 2025** 🚀
