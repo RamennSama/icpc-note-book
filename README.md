@@ -52,3 +52,5 @@ All of these are closely tied to **ICPC 2025** — our final stop at this compet
 *"The journey of a thousand miles begins with a single step."*
 
 **Team VHU – ICPC 2025** 🚀
+
+![Image](https://github.com/user-attachments/assets/b03245fb-f212-47b2-8052-8be2fb113206)
